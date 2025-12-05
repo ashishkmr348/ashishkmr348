@@ -35,26 +35,8 @@
 
 ---
 
-### 🌟 Featured Work – Visual Badges  
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Excel-Case%20Study%20Projects-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-EDA%20%26%20ML%20Case%20Studies-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/SQL-Query%20Case%20Studies-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Power%20BI-Interactive%20Dashboards-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/ML-EDA%20%26%20Model%20Building-FF6F00?style=for-the-badge&logo=scikitlearn&logoColor=white" />
-</p>
-
----
-
-
 ## 📊 GitHub Stats, Insights & Contributions
+
 
 <p align="center">
   <!-- 🏆 GitHub Trophy -->
@@ -96,7 +78,12 @@
 <p align="center">
   <a href="mailto:ashishkmr348@gmail.com"><img src="https://img.shields.io/badge/Email-1E90FF?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/ashish-kumar-733b0392"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://github.com/ashishkmr348"><img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://medium.com/@ashishkmr348" target="_blank">
+    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" />
+  </a>
+  <a href="https://ashishkumar348.lovable.app" target="_blank">
+    <img src="https://img.shields.io/badge/My%20Portfolio-FF4B8B?style=for-the-badge&logo=sparkfun&logoColor=white" />
+  </a>
 </p>
 
 ---
