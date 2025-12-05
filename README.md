@@ -1,25 +1,16 @@
-<!-- 🔥 Animated Banner with Blinking/Typing Effect -->
+<!-- 🔥 Animated Banner -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&center=true&vCenter=true&width=700&lines=👋+Hi%2C+I'm+Ashish+Kumar;Certified+Data+Analyst;Banking+%26+Financial+Services;Turning+data+into+insight+and+impact" alt="Typing SVG" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Role-Certified%20Data%20Analyst-0A66C2?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Domain-Banking%20%26%20Financial%20Services-FFC300?style=for-the-badge" />
-  <a href="https://ashishkumar348.lovable.app">
-    <img src="https://img.shields.io/badge/Portfolio-Live%20Projects-28A745?style=for-the-badge" />
-  </a>
+  <img src="https://readme-typing-svg.herokuapp.com?size=30&duration=4000&color=1E90FF&center=true&vCenter=true&width=750&lines=Hi+I'm+Ashish+Kumar;Certified+Data+Analyst;Banking+%7C+Finance+%7C+Data+Science;Turning+Data+into+Business+Impact+📊" />
 </p>
 
 ---
 
 ### 🧠 About Me  
 
-- 🎓 Pursuing **Post Graduate Program in Data Science & Analytics** – *Imarticus Learning*  
-- 💼 **Banking & Financial Services** analytics experience  
-- 📊 Skilled in **data visualization, BI, and predictive modeling**  
-- 💡 Strong interest in **financial performance, risk analysis & decision intelligence**  
-
+- 🎯 Data Analyst with domain expertise in **Banking & Financial Services**  
+- 📊 Skilled in *Power BI, Excel, SQL, Python, ETL & Statistical Analysis*  
+- 🚀 Passionate about *Data Visualization, Risk Analytics & Predictive Models*  
+- 🎓 Pursuing **PG Program in Data Science & Analytics – Imarticus Learning**  
 ---
 
 ### 🛠️ Tech Stack  
@@ -32,6 +23,15 @@
   <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" />
   <img src="https://img.shields.io/badge/Machine%20Learning-102230?style=for-the-badge&logo=scikitlearn&logoColor=orange" />
 </p>
+
+---
+
+### 🧰 BI & Analytics Skills  
+- Power BI (DAX, Data Modeling, KPIs)  
+- Excel (Pivot, Power Query, Automation)  
+- Tableau (Storytelling & Visual Analytics)  
+- SQL (Joins, CTE, Window Functions)  
+- Python (Pandas, NumPy, ML Models, EDA)  
 
 ---
 
@@ -53,44 +53,31 @@
 
 ---
 
-### 📦 Project Cards (Pinned Repositories)
+
+## 📊 GitHub Stats, Insights & Contributions
 
 <p align="center">
-  <a href="https://github.com/ashishkmr348/Excel">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ashishkmr348&repo=Excel&hide_border=true&theme=default" />
-  </a>
-  <a href="https://github.com/ashishkmr348/Python">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ashishkmr348&repo=Python&hide_border=true&theme=default" />
-  </a>
+  <!-- 🏆 GitHub Trophy -->
+  <img src="https://github-profile-trophy.vercel.app/?username=ashishkmr348&theme=tokyonight&no-frame=true&margin-w=10" />
 </p>
 
 <p align="center">
-  <a href="https://github.com/ashishkmr348/SQL">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ashishkmr348&repo=SQL&hide_border=true&theme=default" />
-  </a>
-  <a href="https://github.com/ashishkmr348/Power-BI">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ashishkmr348&repo=Power-BI&hide_border=true&theme=default" />
-  </a>
+  <!-- ⭐ Stats Card -->
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=ashishkmr348&show_icons=true&theme=tokyonight&hide_border=false" />
+  <!-- 🔥 Most Used Languages -->
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashishkmr348&layout=compact&theme=tokyonight&hide_border=false" />
 </p>
 
 <p align="center">
-  <a href="https://github.com/ashishkmr348/EDA-ML-Projects">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ashishkmr348&repo=EDA-ML-Projects&hide_border=true&theme=default" />
-  </a>
-</p>
-
----
-
-### 📊 GitHub Stats  
-
-<p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=ashishkmr348&show_icons=true&theme=default&hide_border=true" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashishkmr348&layout=compact&hide_border=true&theme=default" />
+  <!-- 🔥 Contribution Streak -->
+  <img src="https://streak-stats.demolab.com?user=ashishkmr348&theme=tokyonight&hide_border=false" height="180"/>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=ashishkmr348&theme=default&hide_border=true" alt="GitHub Streak" />
+  <!-- 🌍 Contribution Graph Animation -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ashishkmr348&theme=react-dark&hide_border=false&area=true" height="250"/>
 </p>
+
 
 ---
 
@@ -107,12 +94,9 @@
 ### 📫 Connect with Me  
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/ashish-kumar-733b0392">
-    <img src="https://img.shields.io/badge/LinkedIn-Ashish%20Kumar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://github.com/ashishkmr348">
-    <img src="https://img.shields.io/badge/GitHub-ashishkmr348-000000?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
+  <a href="mailto:ashishkmr348@gmail.com"><img src="https://img.shields.io/badge/Email-1E90FF?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/ashish-kumar-733b0392"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://github.com/ashishkmr348"><img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
 
 ---
